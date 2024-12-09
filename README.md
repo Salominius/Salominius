@@ -1,6 +1,6 @@
 ### Hi there, I'm Arne 👋
 
-I'm a Computer Science student at the [University of Vienna](https://www.univie.ac.at/en/) 👨‍🎓 and also currently working there as a student assistent.
+I'm a Computer Science student currently doing my masters at the [Technical University of Munich](https://www.tum.de/en/) 👨‍🎓
 
 ### Programming Languages and Tools I am familiar with:
 
