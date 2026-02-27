@@ -6,6 +6,6 @@ I'm a Computer Science student currently doing my masters at the [Technical Univ
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,react,sql,git,github,gitlab,latex" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,react,git,github,gitlab,latex" />
   </a>
 </p>
